@@ -1,0 +1,109 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - leetcode",
+            "request": "launch",
+            "mainClass": "leetcode",
+            "projectName": "PepCodes_c9cb1d4e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Client",
+            "request": "launch",
+            "mainClass": "Client",
+            "projectName": "PepCodes_c9cb1d4e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - dpH",
+            "request": "launch",
+            "mainClass": "dpH",
+            "projectName": "PepCodes_c9cb1d4e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - dp",
+            "request": "launch",
+            "mainClass": "dp",
+            "projectName": "PepCodes_c9cb1d4e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - graph",
+            "request": "launch",
+            "mainClass": "graph",
+            "projectName": "PepCodes_c9cb1d4e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - l01_graph",
+            "request": "launch",
+            "mainClass": "l01_graph",
+            "projectName": "PepCodes_c9cb1d4e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - l05_TNS",
+            "request": "launch",
+            "mainClass": "l05_TNS",
+            "projectName": "PepCodes_c9cb1d4e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - l05_sortingAlgo",
+            "request": "launch",
+            "mainClass": "l05_sortingAlgo",
+            "projectName": "PepCodes_c9cb1d4e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - l003_returnType",
+            "request": "launch",
+            "mainClass": "l003_returnType",
+            "projectName": "PepCodes_c9cb1d4e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - practice",
+            "request": "launch",
+            "mainClass": "practice",
+            "projectName": "PepCodes_c9cb1d4e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - returnType",
+            "request": "launch",
+            "mainClass": "returnType",
+            "projectName": "PepCodes_c9cb1d4e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - l03_returnType",
+            "request": "launch",
+            "mainClass": "l03_returnType",
+            "projectName": "PepCodes_c9cb1d4e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - l02_recursionWithArray",
+            "request": "launch",
+            "mainClass": "l02_recursionWithArray",
+            "projectName": "PepCodes_c9cb1d4e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - l001_basic",
+            "request": "launch",
+            "mainClass": "l001_basic",
+            "projectName": "PepCodes_c9cb1d4e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - l001_basic",
+            "request": "launch",
+            "mainClass": "l001_basic",
+            "projectName": "lect_007_Recursion"
+        }
+    ]
+}
